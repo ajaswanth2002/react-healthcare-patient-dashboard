@@ -34,41 +34,7 @@ A fully interactive patient monitoring dashboard built using **React**, featurin
 - **Recharts**
 - **Axios**
 - **CSS / Flexbox / Grid**
-You need markdown code-block formatting so the folder structure appears vertically, not in one horizontal line.
 
-Right now you wrote:
-
-├── App.jsx ├── Dashboard.jsx ├── Dashboard.css ├── index.js └── assets/ public/ └── assets/
-
-Markdown reads it as inline text, so it stays horizontal.
-
-⸻
-
-✅ Correct Folder Structure (Vertical)
-
-Copy–paste this into your README:
-
-
-
-├── src/
-│   ├── App.jsx
-│   ├── Dashboard.jsx
-│   ├── Dashboard.css
-│   ├── index.js
-│   └── assets/
-│
-└── public/
-└── assets/
-
-
-
-This will display exactly like a proper project tree on GitHub.
-
-⸻
-
-🔥 If you want both projects, I can also format your Java project folder tree similarly.
-
-Just tell me!
 
 ## ▶️ Run Locally
 
