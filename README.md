@@ -36,16 +36,15 @@ A fully interactive patient monitoring dashboard built using **React**, featurin
 - **CSS / Flexbox / Grid**
 
 ---
-
-## 📚 Project Structure
-├── App.jsx
-├── Dashboard.jsx
-├── Dashboard.css
-├── index.js
+├── src/
+│   ├── App.jsx
+│   ├── Dashboard.jsx
+│   ├── Dashboard.css
+│   ├── index.js
+│   └── assets/
+│
+└── public/
 └── assets/
-public/
-└── assets/
----
 
 ## ▶️ Run Locally
 
