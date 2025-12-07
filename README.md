@@ -43,25 +43,59 @@ The UI is responsive, clean, and well-structured with reusable components.
 
 ## 📂 Folder Structure
 
-.
-├── App.css
-├── App.jsx
-├── App.test.js
-├── components
-│   ├── Dashboard.css
-│   ├── DiagonalTable.jsx
-│   ├── LabResults.jsx
-│   ├── MiddleContainer.jsx
-│   ├── Navbar.jsx
-│   ├── PatientCard.jsx
-│   └── Sidebar.jsx
-├── Dashboard.css
-├── Dashboard.jsx
-├── index.css
-├── index.js
-├── logo.svg
-├── reportWebVitals.js
-└── setupTests.js
+react-healthcare-patient-dashboard
+├── README.md
+├── package.json
+├── package-lock.json
+├── .gitignore
+├── public
+│   ├── assets
+│   │   ├── ArrowDown.svg
+│   │   ├── ArrowUp.svg
+│   │   ├── BirthIcon.svg
+│   │   ├── FemaleIcon.svg
+│   │   ├── HeartBPM.svg
+│   │   ├── InsuranceIcon.svg
+│   │   ├── MaleIcon.svg
+│   │   ├── PhoneIcon.svg
+│   │   ├── TestLogo.svg
+│   │   ├── calendar_today_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── chat_bubble_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── credit_card_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── doctor.png
+│   │   ├── download_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── expand_more_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── group_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── home_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── more_horiz_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── more_vert_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── respiratory rate.svg
+│   │   ├── search_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── settings_FILL0_wght300_GRAD0_opsz24.svg
+│   │   ├── temperature.svg
+│   │   └── patient1.jpg ... patient12.jpg
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
+└── src
+    ├── App.css
+    ├── App.jsx
+    ├── App.test.js
+    ├── components
+    │   ├── Dashboard.css
+    │   ├── DiagonalTable.jsx
+    │   ├── LabResults.jsx
+    │   ├── MiddleContainer.jsx
+    │   ├── Navbar.jsx
+    │   ├── PatientCard.jsx
+    │   └── Sidebar.jsx
+    ├── Dashboard.css
+    ├── Dashboard.jsx
+    ├── index.css
+    ├── index.js
+    ├── logo.svg
+    ├── reportWebVitals.js
+    └── setupTests.js
 
 ---
 
