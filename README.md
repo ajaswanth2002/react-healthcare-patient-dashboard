@@ -85,12 +85,3 @@ npm start
 
 Pull requests are welcome.
 For major changes, please open an issue to discuss improvements.
-
----
-
-### Want me to:
-#### ✔ Add screenshots section?
-#### ✔ Host the project live (GitHub Pages / Vercel)?
-#### ✔ Add a better logo / project banner?
-
-Just say **"add screenshots section"** or **"deploy now"** 🚀
