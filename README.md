@@ -43,27 +43,25 @@ The UI is responsive, clean, and well-structured with reusable components.
 
 ## 📂 Folder Structure
 
-react-healthcare-patient-dashboard/
-│
-├── public/
-│   ├── assets/               # Images & icons
-│   ├── index.html
-│   └── manifest.json
-│
-├── src/
-│   ├── components/
-│   │   ├── Sidebar.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── PatientCard.jsx
-│   │   ├── MiddleContainer.jsx
-│   │   ├── DiagonalTable.jsx
-│   │   └── LabResults.jsx
-│   │
-│   ├── Dashboard.jsx         # Main dashboard container
-│   ├── App.jsx
-│   ├── index.js
-├── package.json
-└── README.md
+.
+├── App.css
+├── App.jsx
+├── App.test.js
+├── components
+│   ├── Dashboard.css
+│   ├── DiagonalTable.jsx
+│   ├── LabResults.jsx
+│   ├── MiddleContainer.jsx
+│   ├── Navbar.jsx
+│   ├── PatientCard.jsx
+│   └── Sidebar.jsx
+├── Dashboard.css
+├── Dashboard.jsx
+├── index.css
+├── index.js
+├── logo.svg
+├── reportWebVitals.js
+└── setupTests.js
 
 ---
 
