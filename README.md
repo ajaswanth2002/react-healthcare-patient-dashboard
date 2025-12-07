@@ -43,6 +43,7 @@ The UI is responsive, clean, and well-structured with reusable components.
 
 ## 📂 Folder Structure
 
+```bash
 react-healthcare-patient-dashboard
 ├── README.md
 ├── package.json
