@@ -1,4 +1,4 @@
-import "./Dashboard.css"
+import "../styles/Dashboard.css";
 function MiddleContainer({ selectedPatient }) {
   return (
     <div className="diagonisis-section">

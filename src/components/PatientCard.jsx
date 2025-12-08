@@ -1,4 +1,4 @@
-import "./Dashboard.css"
+import "../styles/Dashboard.css"
 function PateintCard({selectedPatient}){
   const genderIcon =
     selectedPatient.gender?.toLowerCase().startsWith("m")
