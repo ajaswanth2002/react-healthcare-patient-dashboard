@@ -83,7 +83,6 @@ react-healthcare-patient-dashboard
     ├── App.jsx
     ├── App.test.js
     ├── components
-    │   ├── Dashboard.css
     │   ├── DiagonalTable.jsx
     │   ├── LabResults.jsx
     │   ├── MiddleContainer.jsx
@@ -97,6 +96,8 @@ react-healthcare-patient-dashboard
     ├── logo.svg
     ├── reportWebVitals.js
     └── setupTests.js
+	└── styles
+    	└── Dashboard.css
 ```
 ---
 
