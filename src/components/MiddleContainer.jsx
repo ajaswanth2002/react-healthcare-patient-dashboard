@@ -1,5 +1,5 @@
 import {useState } from "react";
-import "./Dashboard.css"
+import "../styles/Dashboard.css";
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid} from "recharts";
 function MiddleContainer({ selectedPatient }) {
    const [filterYear, setFilterYear] = useState("All");

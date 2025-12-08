@@ -1,4 +1,4 @@
-import "./Dashboard.css"
+import "../styles/Dashboard.css";
 function LabResults({ selectedPatient }) {
   return (
     <div className="lab-section">
